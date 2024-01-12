@@ -20,5 +20,9 @@ By using above created apis, create the following table and charts on single pag
 
 
 
-https://github.com/sushobit/Roxiler_Systems-Assignment-/assets/120631631/987ef899-0505-4b4d-bd33-6dfe235fe729
+
+
+
+https://github.com/sushobit/Roxiler_Systems-Assignment-/assets/120631631/6cef828b-dc5f-4f52-ba9c-78103d4fe558
+
 
